@@ -32,16 +32,6 @@
 		/>
 	
 	</FrameLayout>
-
-	<android.support.v7.widget.AppCompatTextView
-		android:id="@+id/job_listing_location"
-		android:layout_width="match_parent"
-		android:layout_height="wrap_content"
-		android:text="! Job Listing Location"
-		android:background="@android:color/transparent"
-		android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-		app:popupTheme="@style/ThemeOverlay.AppCompat.Light" 
-	/>
 	
 	<com.techno1d.app.CustomNestedScrollView2
 		android:id='@+id/nestedscrollview'
