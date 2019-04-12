@@ -3254,17 +3254,17 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090076
 			public const int action_bar_title = 2131296374;
 			
-			// aapt resource value: 0x7f0900c2
-			public const int action_container = 2131296450;
+			// aapt resource value: 0x7f0900c1
+			public const int action_container = 2131296449;
 			
 			// aapt resource value: 0x7f09009b
 			public const int action_context_bar = 2131296411;
 			
-			// aapt resource value: 0x7f0900cd
-			public const int action_divider = 2131296461;
+			// aapt resource value: 0x7f0900cc
+			public const int action_divider = 2131296460;
 			
-			// aapt resource value: 0x7f0900c3
-			public const int action_image = 2131296451;
+			// aapt resource value: 0x7f0900c2
+			public const int action_image = 2131296450;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -3281,11 +3281,11 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090078
 			public const int action_mode_close_button = 2131296376;
 			
-			// aapt resource value: 0x7f0900c4
-			public const int action_text = 2131296452;
+			// aapt resource value: 0x7f0900c3
+			public const int action_text = 2131296451;
 			
-			// aapt resource value: 0x7f0900ce
-			public const int actions = 2131296462;
+			// aapt resource value: 0x7f0900cd
+			public const int actions = 2131296461;
 			
 			// aapt resource value: 0x7f090079
 			public const int activity_chooser_view_content = 2131296377;
@@ -3326,23 +3326,23 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09007f
 			public const int buttonPanel = 2131296383;
 			
-			// aapt resource value: 0x7f0900af
-			public const int card_container = 2131296431;
-			
-			// aapt resource value: 0x7f0900b4
-			public const int card_header_shadow = 2131296436;
+			// aapt resource value: 0x7f0900ae
+			public const int card_container = 2131296430;
 			
 			// aapt resource value: 0x7f0900b3
-			public const int card_recyclerview = 2131296435;
+			public const int card_header_shadow = 2131296435;
 			
 			// aapt resource value: 0x7f0900b2
-			public const int card_subtitle = 2131296434;
+			public const int card_recyclerview = 2131296434;
 			
 			// aapt resource value: 0x7f0900b1
-			public const int card_title = 2131296433;
+			public const int card_subtitle = 2131296433;
 			
 			// aapt resource value: 0x7f0900b0
-			public const int cardview = 2131296432;
+			public const int card_title = 2131296432;
+			
+			// aapt resource value: 0x7f0900af
+			public const int cardview = 2131296431;
 			
 			// aapt resource value: 0x7f09004c
 			public const int center = 2131296332;
@@ -3359,8 +3359,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090093
 			public const int checkbox = 2131296403;
 			
-			// aapt resource value: 0x7f0900cc
-			public const int chronometer = 2131296460;
+			// aapt resource value: 0x7f0900cb
+			public const int chronometer = 2131296459;
 			
 			// aapt resource value: 0x7f090061
 			public const int clip_horizontal = 2131296353;
@@ -3371,8 +3371,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090040
 			public const int collapseActionView = 2131296320;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int container = 2131296440;
+			// aapt resource value: 0x7f0900b7
+			public const int container = 2131296439;
 			
 			// aapt resource value: 0x7f09008f
 			public const int content = 2131296399;
@@ -3380,8 +3380,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090082
 			public const int contentPanel = 2131296386;
 			
-			// aapt resource value: 0x7f0900b9
-			public const int coordinator = 2131296441;
+			// aapt resource value: 0x7f0900b8
+			public const int coordinator = 2131296440;
 			
 			// aapt resource value: 0x7f090089
 			public const int custom = 2131296393;
@@ -3395,20 +3395,20 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09007c
 			public const int default_activity_button = 2131296380;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int design_bottom_sheet = 2131296443;
-			
-			// aapt resource value: 0x7f0900c0
-			public const int design_menu_item_action_area = 2131296448;
+			// aapt resource value: 0x7f0900ba
+			public const int design_bottom_sheet = 2131296442;
 			
 			// aapt resource value: 0x7f0900bf
-			public const int design_menu_item_action_area_stub = 2131296447;
+			public const int design_menu_item_action_area = 2131296447;
 			
 			// aapt resource value: 0x7f0900be
-			public const int design_menu_item_text = 2131296446;
+			public const int design_menu_item_action_area_stub = 2131296446;
 			
 			// aapt resource value: 0x7f0900bd
-			public const int design_navigation_view = 2131296445;
+			public const int design_menu_item_text = 2131296445;
+			
+			// aapt resource value: 0x7f0900bc
+			public const int design_navigation_view = 2131296444;
 			
 			// aapt resource value: 0x7f09006f
 			public const int dimensions = 2131296367;
@@ -3440,8 +3440,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090092
 			public const int expanded_menu = 2131296402;
 			
-			// aapt resource value: 0x7f0900b5
-			public const int fab = 2131296437;
+			// aapt resource value: 0x7f0900b4
+			public const int fab = 2131296436;
 			
 			// aapt resource value: 0x7f09005e
 			public const int fill = 2131296350;
@@ -3479,8 +3479,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09007e
 			public const int icon = 2131296382;
 			
-			// aapt resource value: 0x7f0900cf
-			public const int icon_group = 2131296463;
+			// aapt resource value: 0x7f0900ce
+			public const int icon_group = 2131296462;
 			
 			// aapt resource value: 0x7f090041
 			public const int ifRoom = 2131296321;
@@ -3488,8 +3488,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09007b
 			public const int image = 2131296379;
 			
-			// aapt resource value: 0x7f0900c8
-			public const int info = 2131296456;
+			// aapt resource value: 0x7f0900c7
+			public const int info = 2131296455;
 			
 			// aapt resource value: 0x7f090066
 			public const int invisible = 2131296358;
@@ -3500,14 +3500,11 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090000
 			public const int item_touch_helper_previous_elevation = 2131296256;
 			
-			// aapt resource value: 0x7f0900ad
-			public const int job_listing_location = 2131296429;
-			
 			// aapt resource value: 0x7f09004e
 			public const int labeled = 2131296334;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int largeLabel = 2131296439;
+			// aapt resource value: 0x7f0900b6
+			public const int largeLabel = 2131296438;
 			
 			// aapt resource value: 0x7f090054
 			public const int left = 2131296340;
@@ -3524,8 +3521,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09007d
 			public const int list_item = 2131296381;
 			
-			// aapt resource value: 0x7f0900d1
-			public const int masked = 2131296465;
+			// aapt resource value: 0x7f0900d0
+			public const int masked = 2131296464;
 			
 			// aapt resource value: 0x7f0900a9
 			public const int message = 2131296425;
@@ -3545,11 +3542,11 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09002f
 			public const int multiply = 2131296303;
 			
-			// aapt resource value: 0x7f0900bc
-			public const int navigation_header_container = 2131296444;
+			// aapt resource value: 0x7f0900bb
+			public const int navigation_header_container = 2131296443;
 			
-			// aapt resource value: 0x7f0900ae
-			public const int nestedscrollview = 2131296430;
+			// aapt resource value: 0x7f0900ad
+			public const int nestedscrollview = 2131296429;
 			
 			// aapt resource value: 0x7f090042
 			public const int never = 2131296322;
@@ -3560,14 +3557,14 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090025
 			public const int normal = 2131296293;
 			
-			// aapt resource value: 0x7f0900ca
-			public const int notification_background = 2131296458;
-			
-			// aapt resource value: 0x7f0900c6
-			public const int notification_main_column = 2131296454;
+			// aapt resource value: 0x7f0900c9
+			public const int notification_background = 2131296457;
 			
 			// aapt resource value: 0x7f0900c5
-			public const int notification_main_column_container = 2131296453;
+			public const int notification_main_column = 2131296453;
+			
+			// aapt resource value: 0x7f0900c4
+			public const int notification_main_column_container = 2131296452;
 			
 			// aapt resource value: 0x7f090060
 			public const int outline = 2131296352;
@@ -3605,11 +3602,11 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f090055
 			public const int right = 2131296341;
 			
-			// aapt resource value: 0x7f0900c9
-			public const int right_icon = 2131296457;
+			// aapt resource value: 0x7f0900c8
+			public const int right_icon = 2131296456;
 			
-			// aapt resource value: 0x7f0900c7
-			public const int right_side = 2131296455;
+			// aapt resource value: 0x7f0900c6
+			public const int right_side = 2131296454;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -3686,8 +3683,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09002c
 			public const int showTitle = 2131296300;
 			
-			// aapt resource value: 0x7f0900b6
-			public const int smallLabel = 2131296438;
+			// aapt resource value: 0x7f0900b5
+			public const int smallLabel = 2131296437;
 			
 			// aapt resource value: 0x7f090016
 			public const int snackbar_action = 2131296278;
@@ -3764,8 +3761,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09005a
 			public const int textStart = 2131296346;
 			
-			// aapt resource value: 0x7f0900c1
-			public const int text_input_password_toggle = 2131296449;
+			// aapt resource value: 0x7f0900c0
+			public const int text_input_password_toggle = 2131296448;
 			
 			// aapt resource value: 0x7f090018
 			public const int textinput_counter = 2131296280;
@@ -3776,8 +3773,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09001a
 			public const int textinput_helper_text = 2131296282;
 			
-			// aapt resource value: 0x7f0900cb
-			public const int time = 2131296459;
+			// aapt resource value: 0x7f0900ca
+			public const int time = 2131296458;
 			
 			// aapt resource value: 0x7f090023
 			public const int title = 2131296291;
@@ -3800,8 +3797,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09008a
 			public const int topPanel = 2131296394;
 			
-			// aapt resource value: 0x7f0900ba
-			public const int touch_outside = 2131296442;
+			// aapt resource value: 0x7f0900b9
+			public const int touch_outside = 2131296441;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -3833,8 +3830,8 @@ namespace PreJobListingApp
 			// aapt resource value: 0x7f09001b
 			public const int view_offset_helper = 2131296283;
 			
-			// aapt resource value: 0x7f0900d0
-			public const int visible = 2131296464;
+			// aapt resource value: 0x7f0900cf
+			public const int visible = 2131296463;
 			
 			// aapt resource value: 0x7f090043
 			public const int withText = 2131296323;
