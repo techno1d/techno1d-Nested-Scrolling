@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-  <dimen name="job_listing_loc_padding">8dp</dimen>
-  <dimen name="job_listing_loc_padding_half">4dp</dimen>
-  <dimen name="job_listing_header_vertical_interval">4dp</dimen>
-
-</resources>
